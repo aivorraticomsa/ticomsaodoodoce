@@ -1,0 +1,90 @@
+[submodule "odoo"]
+	path = odoo
+	url = https://github.com/odoo/odoo.git
+	branch = 12.0
+	shallow = true
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = https://github.com/OCA/l10n-spain.git
+	branch = 12.0
+	shallow = true
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = 12.0
+	shallow = true
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = 12.0
+	shallow = true
+[submodule "alfodoo"]
+	path = alfodoo
+	url = https://github.com/acsone/alfodoo.git
+	branch = 12.0
+	shallow = true
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/OCA/bank-payment.git
+	branch = 12.0
+	shallow = true
+[submodule "community-data-files"]
+	path = community-data-files
+	url = https://github.com/OCA/community-data-files.git
+	branch = 12.0
+	shallow = true
+[submodule "connector-cmis"]
+	path = connector-cmis
+	url = https://github.com/OCA/connector-cmis.git
+	branch = 12.0
+	shallow = true
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/OCA/fleet.git
+	branch = 12.0
+	shallow = true
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr.git
+	branch = 12.0
+	shallow = true
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 12.0
+	shallow = true
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact.git
+	branch = 12.0
+	shallow = true
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA/project.git
+	branch = 12.0
+	shallow = true
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = 12.0
+	shallow = true
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 12.0
+	shallow = true
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 12.0
+	shallow = true
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/OCA/timesheet.git
+	branch = 12.0
+	shallow = true
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = 12.0
+	shallow = true
